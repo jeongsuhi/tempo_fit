@@ -1,0 +1,15 @@
+import 'package:flutter/widgets.dart';
+import 'package:tempo_fit/l10n/l10n.dart';
+
+class L10nDelegate extends LocalizationsDelegate<L10n> {
+  const L10nDelegate();
+
+  @override
+  bool isSupported(Locale locale) => ['ja', 'en', 'ko'].contains(locale.languageCode);
+
+  @override
+  Future<L10n> load(Locale locale) => L10n.load(locale);
+
+  @override
+  bool shouldReload(L10nDelegate old) => false;
+}

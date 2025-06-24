@@ -1,0 +1,165 @@
+{
+  "@@locale": "ko",
+
+  "appName": "템포핏",
+
+  "footerLabelTimer": "타이머",
+  "footerLabelHistory": "이력",
+
+  "timerLabelReady": "READY",
+  "timerLabelAct": "WORK",
+  "timerLabelRest": "REST",
+  "timerLabelDone": "DONE",
+  "timerPanel0": "+ 버튼으로 타이머를 설정할 수 있어요",
+  "timerPanel1": "카드를 탭하여 운동을 시작하세요!",
+  "timerSetList": "등록한 타이머",
+  "timerSetListEmpty": "자주 사용하는 타이머를 저장하세요",
+  "timerFavoriteTip": "탭해서 맨 위로",
+  "timerListBottomSheetTitle": "탭해서 바로 시작",
+  "timerTileWorkoutLabel": "운동",
+  "timerTileRestLabel": "휴식",
+  "timerWorkoutLabel": "  운동",
+  "timerRestLabel": "  휴식",
+  "timerSetLabel": "세트",
+  "timerMinuteLabel": "분",
+  "timerSecondLabel": "초",
+  "timerTitleInputHint": "이 타이머의 이름을 쓰세요",
+  "timerSavePhotoLabel": "탭하고\n사진등록",
+  "timerTileSetLabel": "{number} 세트",
+  "announceDeleteTimer": "{number}개의 타이머를 삭제",
+  "@announceDeleteTimer": {
+    "type": "text",
+    "placeholders": {
+      "number": "--"
+    }
+  },
+  "announceSelectedTimer": "{number}개의 타이머를 선택했어요",
+  "@announceSelectedTimer": {
+    "type": "text",
+    "placeholders": {
+      "number": "--"
+    }
+  },
+
+  "historyEmptyCardLabel": "운동하세요!",
+  "historyTitleInputLabel": "이름",
+  "historyTitleInputHint": "이 기록의 이름을 쓰세요",
+  "historySetInputLabel": "세트",
+  "historySetInputPrefix": " 세트 ",
+  "historyTotalTimeInputLabel": "총 운동 시간",
+  "historyTotalTimeLabelHour": "시",
+  "historyTotalTimeLabelMinute": "분",
+  "historyTotalTimeLabelSecond": "초",
+  "historyTotalTimeInputHintHour": "h",
+  "historyTotalTimeInputPrefixHour": " 시 ",
+  "historyTotalTimeInputHintMinute": "mm",
+  "historyTotalTimeInputPrefixMinute": " 분 ",
+  "historyTotalTimeInputHintSecond": "ss",
+  "historyTotalTimeInputPrefixSecond": " 초 ",
+  "historyMemoInputLabel": "메모",
+  "historyMemoInputHint": "이 기록에 메모를 남길 수 있어요",
+  "historyTimerLabel": "타이머 정보",
+  "historyTimerWorkoutLabel": "운동",
+  "historyTimerRestLabel": "휴식",
+  "historyMemoEmptyLabel": "메모 없음",
+  "historyPictureLabel": "사진을 기록할 수 있어요",
+  "historyMonthCardLabel": "{year}년 {month} \n{dates}일 운동했어요",
+  "@historyMonthCardLabel": {
+    "type": "text",
+    "placeholders": {
+      "year": "--",
+      "month": "--",
+      "dates": "--"
+    }
+  },
+  "historyDateCardLabel": "{number}일",
+  "@historyDateCardLabel": {
+    "type": "text",
+    "placeholders": {
+      "number": "--"
+    }
+  },
+  "historyLogCardSetLabel": "{number} 세트",
+  "@historyLogCardSetLabel": {
+    "type": "text",
+    "placeholders": {
+      "number": "--"
+    }
+  },
+  "historySetLabel": "{number} 세트",
+  "@historySetLabel": {
+    "type": "text",
+    "placeholders": {
+      "number": "--"
+    }
+  },
+  "historyTotalTimeLabel": "총 운동 시간 {number}",
+  "@historyTotalTimeLabel": {
+    "type": "text",
+    "placeholders": {
+      "number": "--"
+    }
+  },
+  "historyTimerSetPrefix": "{number} 세트",
+  "@historyTimerSetPrefix": {
+    "type": "text",
+    "placeholders": {
+      "number": "--"
+    }
+  },
+
+  "albumEmptyCardLabel": "등록한 사진을 확인할 수 있어요",
+  "albumLogCardLabel": "{number}",
+
+  "settingsTitle": "설정",
+  "settingsLabelThemeColor": "테마 컬러 변경",
+  "settingsLabelSound": "타이머 소리 변경",
+  "settingsLabelNoCommercials": "3일간 광고끄기",
+  "settingsLabelShareApp": "앱을 공유하기",
+  "settingsLabelReviewApp": "앱을 평가하기",
+  "settingsLabelContactUs": "문의하기",
+  "settingsLabelLicense": "라이센스",
+  "settingsLabelVersion": "버전",
+  "emailParameterSubject": "템포핏 문의",
+  "emailParameterBody": "(문의 사항을 입력해주세요)\n\n\n\n------------\n앱: 템포핏\n앱 버전: \n단말기 모델: \n단말기 OS version: \n감사합니다.",
+  "validCommercials": "이미 광고가 보이지 않습니다",
+  "validCommercialsStart": "지금부터 3일간 광고가 보이지 않습니다",
+  "shareParameterSubject": "템포핏으로 운동하고 기록하고! 지금 다운로드하세요 ^^",
+  "shareParameterBody": "앱을 다운로드하여 당신의 건강을 관리하세요!\n\n클릭하여 앱 스토어로 이동:\n{app}",
+  "@shareParameterBody": {
+    "type": "text",
+    "placeholders": {
+      "app": "--"
+    }
+  },
+
+  "confirmDeleteTimer": "타이머를 삭제하시겠어요?",
+  "confirmFinishTimer": "타이머를 종료하시겠어요?",
+  "alertInputMissingHistorySet": "세트에 1이상의 숫자를 입력하세요",
+  "alertInputMissingHistoryTotalTime": "총 운동 시간을 입력하세요",
+  "alertInputMissingTimerWorkoutTime": "운동 시간을 입력하세요",
+  "alertInputMissingTimerRestTime": "휴식 시간을 입력하세요",
+  "alertFailureLaunchApplication": "앱을 시작할 수 없어요",
+  "alertNotAvailableApplication": "사용할 수 있는 앱이 없어요",
+
+  "buttonOK": "네",
+  "buttonApply": "적용",
+  "buttonClose": "닫기",
+  "buttonCancel": "취소",
+  "buttonSave": "저장",
+  "buttonStart": "시작",
+  "buttonDelete": "삭제",
+  "buttonSaveTimer": "설정을 저장",
+  "buttonFinishTimer": "끝내기",
+  "buttonSelectNextTimer": "다음 타이머로",
+  "buttonPauseTimer": "정지",
+  "buttonContinueTimer": "계속",
+  "buttonSelectAllTimer": "모두 선택",
+  "buttonDeleteHistory": "이 기록을 삭제",
+  "buttonChoosePicture": "갤러리에서 사진 선택",
+  "buttonTakePicture": "사진을 촬영",
+  "buttonDeletePicture": "현재 사진을 삭제",
+  "toastDeleteComplete": "삭제 완료",
+  "toastSaveComplete": "저장 완료",
+  "toastApplyComplete": "적용 완료"
+}

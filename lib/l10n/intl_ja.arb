@@ -1,0 +1,165 @@
+{
+  "@@locale": "ja",
+
+  "appName": "テンポフィット",
+
+  "footerLabelTimer": "タイマー",
+  "footerLabelHistory": "履歴",
+
+  "timerLabelReady": "READY",
+  "timerLabelAct": "WORK",
+  "timerLabelRest": "REST",
+  "timerLabelDone": "DONE",
+  "timerPanel0": "＋ボタンでタイマーを設定できます",
+  "timerPanel1": "カードをタップして運動をスタートしましょ！",
+  "timerSetList": "登録したタイマー",
+  "timerSetListEmpty": "よく使うタイマーを登録できます",
+  "timerFavoriteTip": "タップして上へ",
+  "timerListBottomSheetTitle": "タップしてスタート",
+  "timerTileWorkoutLabel": "運動",
+  "timerTileRestLabel": "休憩",
+  "timerWorkoutLabel": "  運動",
+  "timerRestLabel": "  休憩",
+  "timerSetLabel": "セット",
+  "timerMinuteLabel": "分",
+  "timerSecondLabel": "秒",
+  "timerTitleInputHint": "このタイマーのタイトルをつけます",
+  "timerSavePhotoLabel": "タップで\n写真登録",
+  "timerTileSetLabel": "{number} セット",
+  "announceDeleteTimer": "{number}個のタイマーを削除",
+  "@announceDeleteTimer": {
+    "type": "text",
+    "placeholders": {
+      "number": "--"
+    }
+  },
+  "announceSelectedTimer": "{number}個のタイマーを選択中",
+  "@announceSelectedTimer": {
+    "type": "text",
+    "placeholders": {
+      "number": "--"
+    }
+  },
+
+  "historyEmptyCardLabel": "運動しましょ！",
+  "historyTitleInputLabel": "タイトル",
+  "historyTitleInputHint": "この記録にタイトルをつけます",
+  "historySetInputLabel": "セット",
+  "historySetInputPrefix": " セット ",
+  "historyTotalTimeInputLabel": "総運動時間",
+  "historyTotalTimeLabelHour": "時",
+  "historyTotalTimeLabelMinute": "分",
+  "historyTotalTimeLabelSecond": "秒",
+  "historyTotalTimeInputHintHour": "h",
+  "historyTotalTimeInputPrefixHour": " 時 ",
+  "historyTotalTimeInputHintMinute": "mm",
+  "historyTotalTimeInputPrefixMinute": " 分 ",
+  "historyTotalTimeInputHintSecond": "ss",
+  "historyTotalTimeInputPrefixSecond": " 秒 ",
+  "historyMemoInputLabel": "メモ",
+  "historyMemoInputHint": "メモを記入できます",
+  "historyTimerLabel": "タイマー情報",
+  "historyTimerWorkoutLabel": "運動",
+  "historyTimerRestLabel": "休憩",
+  "historyMemoEmptyLabel": "メモはありません",
+  "historyPictureLabel": "写真で記録できます",
+  "historyMonthCardLabel": "{year}年{month}\n{dates}日運動しました",
+  "@historyMonthCardLabel": {
+    "type": "text",
+    "placeholders": {
+      "year": "--",
+      "month": "--",
+      "dates": "--"
+    }
+  },
+  "historyDateCardLabel": "{number}日",
+  "@historyDateCardLabel": {
+    "type": "text",
+    "placeholders": {
+      "number": "--"
+    }
+  },
+  "historyLogCardSetLabel": "{number} セット",
+  "@historyLogCardSetLabel": {
+    "type": "text",
+    "placeholders": {
+      "number": "--"
+    }
+  },
+  "historySetLabel": "{number} セット",
+  "@historySetLabel": {
+    "type": "text",
+    "placeholders": {
+      "number": "--"
+    }
+  },
+  "historyTotalTimeLabel": "総運動時間 {number}",
+  "@historyTotalTimeLabel": {
+    "type": "text",
+    "placeholders": {
+      "number": "--"
+    }
+  },
+  "historyTimerSetPrefix": "{number} セット",
+  "@historyTimerSetPrefix": {
+    "type": "text",
+    "placeholders": {
+      "number": "--"
+    }
+  },
+
+  "albumEmptyCardLabel": "登録した写真をまとめてみれます",
+  "albumLogCardLabel": "{number}",
+
+  "settingsTitle": "設定",
+  "settingsLabelThemeColor": "テーマカラーを変更",
+  "settingsLabelSound": "タイマー音を変更",
+  "settingsLabelNoCommercials": "3日間広告を見ない",
+  "settingsLabelShareApp": "アプリを共有",
+  "settingsLabelReviewApp": "アプリを評価",
+  "settingsLabelContactUs": "お問い合わせ",
+  "settingsLabelLicense": "ライセンス",
+  "settingsLabelVersion": "バージョン",
+  "emailParameterSubject": "Tempo Fit お問い合わせ",
+  "emailParameterBody": "（内容を入力してください）\n\n\n\nーーーーーーーーーーーーーーー\nアプリ: Tempo Fit\nアプリバージョン： \n端末： \n端末OS version： \nありがとうございます",
+  "validCommercials": "既に広告が見えません",
+  "validCommercialsStart": "これから３日間、広告が見えません",
+  "shareParameterSubject": "記録もできる！運動用タイマー　今すぐダウンロード✨",
+  "shareParameterBody": "アプリをダウンロードしてサービス満喫！\n\nクリックしてアプリストアに行く\n{app}",
+  "@shareParameterBody": {
+    "type": "text",
+    "placeholders": {
+      "app": "--"
+    }
+  },
+
+  "confirmDeleteTimer": "タイマーを削除しますか？",
+  "confirmFinishTimer": "タイマーを終了しますか？",
+  "alertInputMissingHistorySet": "セットは1以上の数字を入力してください",
+  "alertInputMissingHistoryTotalTime": "総運動時間を入力してください",
+  "alertInputMissingTimerWorkoutTime": "運動時間を入力してください",
+  "alertInputMissingTimerRestTime": "休憩時間を入力してください",
+  "alertFailureLaunchApplication": "アプリを起動することができませんでした",
+  "alertNotAvailableApplication": "利用できるアプリがありません",
+
+  "buttonOK": "はい",
+  "buttonApply": "適用",
+  "buttonClose": "閉じる",
+  "buttonCancel": "キャンセル",
+  "buttonSave": "保存",
+  "buttonStart": "開始",
+  "buttonDelete": "削除",
+  "buttonSaveTimer": "設定を保存",
+  "buttonFinishTimer": "終了",
+  "buttonSelectNextTimer": "次を選ぶ",
+  "buttonPauseTimer": "停止",
+  "buttonContinueTimer": "続ける",
+  "buttonSelectAllTimer": "すべて",
+  "buttonDeleteHistory": "この記録を削除",
+  "buttonChoosePicture": "ギャラリーから選択",
+  "buttonTakePicture": "写真を撮る",
+  "buttonDeletePicture": "写真を削除する",
+  "toastDeleteComplete": "削除完了",
+  "toastSaveComplete": "保存完了",
+  "toastApplyComplete": "適用完了"
+}

@@ -1,0 +1,518 @@
+{
+  "@@locale": "en",
+  "@@last_modified": "2024-06-08T23:20:05.174006",
+  "appName": "Tempo Fit",
+  "@appName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "footerLabelTimer": "Timer",
+  "@footerLabelTimer": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "footerLabelHistory": "History",
+  "@footerLabelHistory": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "timerLabelReady": "READY",
+  "@timerLabelReady": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "timerLabelAct": "WORK",
+  "@timerLabelAct": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "timerLabelRest": "REST",
+  "@timerLabelRest": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "timerLabelDone": "DONE",
+  "@timerLabelDone": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "timerPanel0": "Add timer set and Start it!",
+  "@timerPanel0": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "timerPanel1": "Click on the card to START work out!",
+  "@timerPanel1": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "timerSetList": "Your set list",
+  "@timerSetList": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "timerSetListEmpty": "You can register timers that you always use",
+  "@timerSetListEmpty": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "timerFavoriteTip": "Tap to be at the top",
+  "@timerFavoriteTip": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "timerListBottomSheetTitle": "Tap to Start",
+  "@timerListBottomSheetTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "timerTileWorkoutLabel": "WORKOUT",
+  "@timerTileWorkoutLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "timerTileRestLabel": "REST",
+  "@timerTileRestLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "timerWorkoutLabel": "  WORKOUT",
+  "@timerWorkoutLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "timerRestLabel": "  REST",
+  "@timerRestLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "timerSetLabel": "SET",
+  "@timerSetLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "timerMinuteLabel": "min",
+  "@timerMinuteLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "timerSecondLabel": "sec",
+  "@timerSecondLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "timerTitleInputHint": "You can set timer's name",
+  "@timerTitleInputHint": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "timerSavePhotoLabel": "Tap &\nRecord",
+  "@timerSavePhotoLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "timerTileSetLabel": "{number} SET",
+  "@timerTileSetLabel": {
+    "type": "text",
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "announceDeleteTimer": "Remove {number} timers",
+  "@announceDeleteTimer": {
+    "type": "text",
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "announceSelectedTimer": "You have selected {number} timers",
+  "@announceSelectedTimer": {
+    "type": "text",
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "historyEmptyCardLabel": "You can check your exercise log here. \nLet's work out!",
+  "@historyEmptyCardLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "historyTitleInputLabel": "Title",
+  "@historyTitleInputLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "historyTitleInputHint": "Put the title for this log",
+  "@historyTitleInputHint": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "historySetInputLabel": "SET",
+  "@historySetInputLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "historySetInputPrefix": " SET ",
+  "@historySetInputPrefix": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "historyTotalTimeInputLabel": "TOTAL WORKOUT",
+  "@historyTotalTimeInputLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "historyTotalTimeInputHintHour": "h",
+  "@historyTotalTimeInputHintHour": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "historyTotalTimeInputPrefixHour": " h ",
+  "@historyTotalTimeInputPrefixHour": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "historyTotalTimeInputHintMinute": "mm",
+  "@historyTotalTimeInputHintMinute": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "historyTotalTimeInputPrefixMinute": " m ",
+  "@historyTotalTimeInputPrefixMinute": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "historyTotalTimeInputHintSecond": "ss",
+  "@historyTotalTimeInputHintSecond": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "historyTotalTimeInputPrefixSecond": " s ",
+  "@historyTotalTimeInputPrefixSecond": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "historyTotalTimeLabelHour": "h",
+  "@historyTotalTimeLabelHour": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "historyTotalTimeLabelMinute": "min",
+  "@historyTotalTimeLabelMinute": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "historyTotalTimeLabelSecond": "sec",
+  "@historyTotalTimeLabelSecond": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "historyMemoInputLabel": "Note",
+  "@historyMemoInputLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "historyMemoInputHint": "You can write notes",
+  "@historyMemoInputHint": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "historyTimerLabel": "Timer Settings",
+  "@historyTimerLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "historyTimerWorkoutLabel": "WORKOUT",
+  "@historyTimerWorkoutLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "historyTimerRestLabel": "REST",
+  "@historyTimerRestLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "historyMemoEmptyLabel": "No Notes",
+  "@historyMemoEmptyLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "historyPictureLabel": "Leave today's success",
+  "@historyPictureLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "historyMonthCardLabel": "{month}, {year} \n{dates} days you worked out",
+  "@historyMonthCardLabel": {
+    "type": "text",
+    "placeholders": {
+      "year": {},
+      "month": {},
+      "dates": {}
+    }
+  },
+  "historyDateCardLabel": "{number}",
+  "@historyDateCardLabel": {
+    "type": "text",
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "historyLogCardSetLabel": "{number} SET",
+  "@historyLogCardSetLabel": {
+    "type": "text",
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "historySetLabel": "{number} SET",
+  "@historySetLabel": {
+    "type": "text",
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "historyTotalTimeLabel": "Total Workout Time {number}",
+  "@historyTotalTimeLabel": {
+    "type": "text",
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "historyTimerSetPrefix": "{number} SET",
+  "@historyTimerSetPrefix": {
+    "type": "text",
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "albumEmptyCardLabel": "You can check your workout photos here, \nif you saved your photos. \nLet's work out!",
+  "@albumEmptyCardLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "albumLogCardLabel": "{number}",
+  "@albumLogCardLabel": {
+    "type": "text",
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "settingsTitle": "Settings",
+  "@settingsTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "settingsLabelThemeColor": "Change App Color",
+  "@settingsLabelThemeColor": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "settingsLabelSound": "Change Timer Sound",
+  "@settingsLabelSound": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "settingsLabelNoCommercials": "NO ADs for 3days",
+  "@settingsLabelNoCommercials": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "settingsLabelShareApp": "Share this App",
+  "@settingsLabelShareApp": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "settingsLabelReviewApp": "Review this App",
+  "@settingsLabelReviewApp": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "settingsLabelContactUs": "Contact Us",
+  "@settingsLabelContactUs": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "settingsLabelLicense": "License",
+  "@settingsLabelLicense": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "settingsLabelVersion": "Version",
+  "@settingsLabelVersion": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "emailParameterSubject": "Tempo Fit Customer Inquiry",
+  "@emailParameterSubject": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "emailParameterBody": "Please feel free to write your inquiry\n\n\n\n------------\nApplication: Tempo Fit\nApp version: \nYour device Model: \nYour device OS version: \nThanks:)",
+  "@emailParameterBody": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "validCommercials": "Thank you for watching the ad again for us, but your settings are still valid",
+  "@validCommercials": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "validCommercialsStart": "From now on, in-app ads will not be displayed for three days",
+  "@validCommercialsStart": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "shareParameterSubject": "Download Now!",
+  "@shareParameterSubject": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "shareParameterBody": "Check out this awesome app: {app}",
+  "@shareParameterBody": {
+    "type": "text",
+    "placeholders": {
+      "app": {}
+    }
+  },
+  "confirmDeleteTimer": "Are you sure you want to delete the timer?",
+  "@confirmDeleteTimer": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirmFinishTimer": "Do you want to end the timer?",
+  "@confirmFinishTimer": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "alertInputMissingHistorySet": "Please enter SET",
+  "@alertInputMissingHistorySet": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "alertInputMissingHistoryTotalTime": "Please enter the total workout time",
+  "@alertInputMissingHistoryTotalTime": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "alertInputMissingTimerWorkoutTime": "Please enter the workout time",
+  "@alertInputMissingTimerWorkoutTime": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "alertInputMissingTimerRestTime": "Please enter the rest time",
+  "@alertInputMissingTimerRestTime": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "alertFailureLaunchApplication": "Failed to launch application",
+  "@alertFailureLaunchApplication": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "alertNotAvailableApplication": "No applications available to launch",
+  "@alertNotAvailableApplication": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "buttonOK": "OK",
+  "@buttonOK": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "buttonApply": "APPLY",
+  "@buttonApply": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "buttonClose": "CLOSE",
+  "@buttonClose": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "buttonCancel": "CANCEL",
+  "@buttonCancel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "buttonSave": "SAVE",
+  "@buttonSave": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "buttonStart": "START",
+  "@buttonStart": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "buttonDelete": "DELETE",
+  "@buttonDelete": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "buttonSaveTimer": "SAVE SETTING",
+  "@buttonSaveTimer": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "buttonFinishTimer": "FINISH",
+  "@buttonFinishTimer": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "buttonSelectNextTimer": "SELECT NEXT",
+  "@buttonSelectNextTimer": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "buttonPauseTimer": "PAUSE",
+  "@buttonPauseTimer": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "buttonContinueTimer": "CONTINUE",
+  "@buttonContinueTimer": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "buttonSelectAllTimer": "Select ALL",
+  "@buttonSelectAllTimer": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "buttonDeleteHistory": "Delete this log",
+  "@buttonDeleteHistory": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "buttonChoosePicture": "Choose a picture",
+  "@buttonChoosePicture": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "buttonTakePicture": "Take a picture",
+  "@buttonTakePicture": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "buttonDeletePicture": "Delete a picture",
+  "@buttonDeletePicture": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "toastDeleteComplete": "Delete complete",
+  "@toastDeleteComplete": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "toastSaveComplete": "Save complete",
+  "@toastSaveComplete": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "toastApplyComplete": "Apply complete",
+  "@toastApplyComplete": {
+    "type": "text",
+    "placeholders": {}
+  }
+}
